@@ -4,7 +4,8 @@ React project, FCC
 
 ## Live demo
 
-[Demo](https://codesandbox.io/s/github/Reittu/react-markdown-previewer/tree/master/?fontsize=14&hidenavigation=1&theme=dark)
+[Demo](https://pnvbt.csb.app/)
+[Editor](https://codesandbox.io/s/react-markdown-previewer-pnvbt?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Run locally
 
