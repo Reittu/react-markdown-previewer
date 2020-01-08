@@ -4,7 +4,7 @@ React project, FCC
 
 ## Live demo
 
-Coming soon
+[Demo](https://codesandbox.io/s/github/Reittu/react-markdown-previewer/tree/master/?fontsize=14&hidenavigation=1&theme=dark)
 
 ## Run locally
 
