@@ -4,7 +4,7 @@ React project, FCC
 
 ## Live demo
 
-[Demo](https://pnvbt.csb.app/)
+[Demo](https://pnvbt.codesandbox.io/)
 
 [Editor](https://codesandbox.io/s/react-markdown-previewer-pnvbt?fontsize=14&hidenavigation=1&theme=dark)
 
